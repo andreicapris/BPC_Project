@@ -6,3 +6,5 @@ The language is C but as we were required to use Visual Studio all the files are
 I also tested them with ming-gw64 and the only change that is required is the main to not be declared void. \
 All of the comments and input prompts are in Romanian. \
 All of them will run in visual studio code with ming with the mention that the main should have the following int main(int argc, char **argv) and return 0 at the end. \
+
+
